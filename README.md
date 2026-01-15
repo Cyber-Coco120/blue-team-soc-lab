@@ -3,7 +3,7 @@ Overview
 
 This repository showcases a hands-on Blue Team Security Operations Center (SOC) lab focused on threat detection, incident triage, and security monitoring using real-world tools and workflows. The lab simulates how SOC analysts investigate alerts, analyze logs, and document findings across multiple security domains.
 
-The projects emphasize practical detection logic, signal-focused dashboards, and clear documentation, rather than theoretical exercises.
+The projects emphasize practical detection logic, signal focused dashboards, and clear documentation, rather than theoretical exercises.
 
 🎯 Objectives
 
@@ -122,7 +122,7 @@ Regulated-environment security mindset
 
 🚀 Why This Lab Matters
 
-This lab demonstrates hands-on cybersecurity experience aligned with entry-level to mid-level SOC Analyst / Cybersecurity Analyst roles. It focuses on how analysts think, investigate, and respond—using imperfect, real-world data—rather than scripted scenarios.
+This lab demonstrates hands-on cybersecurity experience aligned with entry level to mid-level SOC Analyst / Cybersecurity Analyst roles. It focuses on how analysts think, investigate, and respond using imperfect real-world data rather, than scripted scenarios.
 
 🔗 Author
 
