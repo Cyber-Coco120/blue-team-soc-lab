@@ -1,7 +1,7 @@
 # Firewall Threat Monitoring – Blue Team SOC Lab
 
 ## Overview
-This project demonstrates network-level threat monitoring using pfSense firewall logs ingested into Splunk SIEM. The goal is to identify blocked traffic, potential scanning activity, and abnormal connection behavior from a Blue Team SOC perspective.
+This project demonstrates network level threat monitoring using pfSense firewall logs ingested into Splunk SIEM. The goal is to identify blocked traffic, potential scanning activity, and abnormal connection behavior from a Blue Team SOC perspective.
 
 ## Objectives
 - Monitor firewall allow and block actions
@@ -38,7 +38,7 @@ The following panels were created:
 - Network security monitoring
 - Firewall log analysis
 - SIEM dashboard creation
-- SPL-based investigation
+- SPL based investigation
 - Blue Team threat detection
 
 ## Project Status
